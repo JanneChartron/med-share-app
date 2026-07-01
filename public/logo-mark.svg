@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M18 6h6v10h10v6H24v6a8 8 0 1 1-8-8h2V6z"
+    stroke="#17171a"
+    strokeWidth="2.6"
+    strokeLinejoin="round"
+  />
+  <path
+    d="M18 26a8 8 0 0 1 8 6 8 8 0 0 1 8-6 6 6 0 0 1 6 6c0 5-6.5 9-14 13-7.5-4-14-8-14-13a6 6 0 0 1 6-6z"
+    stroke="#6b6b73"
+    strokeWidth="2.6"
+    strokeLinejoin="round"
+  />
+</svg>
